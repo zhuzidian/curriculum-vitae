@@ -39,7 +39,7 @@ Vue.js | Nuxt.js | Expressjs | Ruby on Rails | SpringBoot | Hibernate | JSF | CD
 
 ### データベース
 
-PostgreSQL | SAP HANA | Oracle | h2 | Redis | MongoDB
+PostgreSQL | SAP HANA | Oracle | h2 | MongoDB
 
 ### クラウド
 
@@ -49,11 +49,11 @@ VPC | EC2 | Load Balancer | RDS(PostgreSQL) | S3 | Lambda | SNS | SES | CloudFor
 
 ### その他
 
-Docker | Bamboo | CircleCI | Github | Gitlab | Apache HTTP Server | Tomcat | Jira 
+Docker | CircleCI | Github | Gitlab | Apache | Tomcat | Jira 
 
 ### 実務経験はないが学習したことはある
 
-Python | TypeScript | Reactjs | Koa.js
+TypeScript | Reactjs
 
 ## 資格
 
